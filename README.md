@@ -16,3 +16,4 @@ I am an aspiring software developer I come from a background in customer service
 
 ## What excites you the most about tech? Write 1-2 sentences
 
+I love how much we can incorporate technology into our lives and how one small automation can make such a huge difference in how we go about our day.
